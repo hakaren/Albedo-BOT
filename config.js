@@ -67,10 +67,10 @@ global.ppulsa2 = '62895604670507' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '62895604670507'
-global.namebot = 'AlbedoBotz'
-global.nameown = 'Zenss'
+global.nomorbot = '6282144607416'
+global.nomorown = '6282144607416'
+global.namebot = 'jegaabotz'
+global.nameown = 'jega'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'RaaaGH' // nama github lu
